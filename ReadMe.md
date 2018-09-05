@@ -13,3 +13,7 @@
 
 ### Recommendation
 * [Bootstrap 4](https://www.w3schools.com/bootstrap4/) or similar technology
+
+### Evaluation criteria
+* Demo of implementation		
+* Implementation should be demo-able in a web browser via a url (Go / No go)			
