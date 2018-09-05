@@ -31,7 +31,8 @@
 * Code quality
   * SCA violations
   * Duplication
-  * Unit test implemented (Y/N)?			Report should be available	
+  * Unit test implemented (Y/N)? 
+  	Report should be available	
 	   * Statement coverage			
 	   * Branch coverage			
 	   * UI coverage			
