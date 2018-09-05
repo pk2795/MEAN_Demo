@@ -17,3 +17,21 @@
 ### Evaluation criteria
 * Demo of implementation		
   * Implementation should be demo-able in a web browser via a url (Go / No go)			
+
+* Maintainability
+  * Componentised code
+  * Ease of merging back the code
+  * Adherence to guidelines and recommendations
+  * Light-weight application
+ 
+* Closeness of UI implementation to LoFi or HiFi screenshot(s) 
+
+* In case of implementation from LoFi, what are the UI control-level or detail-level implementations done e.g. text boxes, input masks, data entry validations, list of values etc.
+
+* Code quality
+  * SCA violations
+  * Duplication
+  * Unit test implemented (Y/N)?			Report should be available	
+	   * Statement coverage			
+	   * Branch coverage			
+	   * UI coverage			
