@@ -16,4 +16,4 @@
 
 ### Evaluation criteria
 * Demo of implementation		
-* Implementation should be demo-able in a web browser via a url (Go / No go)			
+  * Implementation should be demo-able in a web browser via a url (Go / No go)			
