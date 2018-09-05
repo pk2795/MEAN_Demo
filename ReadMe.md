@@ -9,7 +9,7 @@
 * [Setup a Node.js](https://nodejs.org/en/download/) 
 * [Angular CLI](https://cli.angular.io/)
 * [Settting Up an IDE - Visual Studio Code](https://code.visualstudio.com/download) or similar IDE(e.g.Webstorm)
-* [Telerik Fiddler](https://www.telerik.com/fiddler) (v5.0.20182.28034) for bypassing proxy settings (if required) [Configuration]()
+* [Telerik Fiddler](https://www.telerik.com/fiddler) (v5.0.20182.28034) for bypassing proxy settings (if required) [Configuration](https://github.com/pk2795/MEAN_Demo/blob/master/Configuration%20for%20Web%20Development.docx)
 
 ### Recommendation
 * [Bootstrap 4](https://www.w3schools.com/bootstrap4/) or similar technology
