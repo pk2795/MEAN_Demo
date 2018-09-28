@@ -15,24 +15,26 @@
 * [Bootstrap 4](https://www.w3schools.com/bootstrap4/) or similar technology
 
 ### Evaluation criteria
-* Demo of implementation		
-  * Implementation should be demo-able in a web browser via a url (Go / No go)			
+1.0 Demo of implementation		
+  - Implementation should be demo-able in a web browser via a url (Go / No go)			
 
-* Maintainability
-  * Componentised code
-  * Ease of merging back the code
-  * Adherence to guidelines and recommendations
-  * Light-weight application
+1.1  Maintainability
+ *  Componentised code
+ *  Ease of merging back the code
+ *  Adherence to guidelines and recommendations
+ *  Light-weight application
  
-* Closeness of UI implementation to LoFi or HiFi screenshot(s) 
+2.0  Closeness of UI implementation to LoFi or HiFi screenshot(s) 
 
-* In case of implementation from LoFi, what are the UI control-level or detail-level implementations done e.g. text boxes, input masks, data entry validations, list of values etc.
+3.0  In case of implementation from LoFi, what are the UI control-level or detail-level implementations done.(e.g. text boxes, input masks, data entry validations, list of values etc.)
 
-* Code quality
+4.0 Code quality
+  * Code Complexity
   * SCA violations
   * Duplication
-  * Unit test implemented (Y/N)? 
-  	Report should be available	
-	   * Statement coverage			
-	   * Branch coverage			
-	   * UI coverage			
+
+4.4  Unit test implemented (Y/N)? 
+  Report should be available	
+  * Statement coverage			
+  * Branch coverage		
+  * UI coverage			
